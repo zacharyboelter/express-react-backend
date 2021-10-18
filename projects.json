@@ -1,0 +1,14 @@
+[
+    {
+        "name": "The Tannin Connection",
+        "live": "https://boelter-app.herokuapp.com/",
+        "git": "https://github.com/zacharyboelter/tannin-connection",
+        "image": "https://i.imgur.com/6AIUu3Z.png"
+    },
+    {
+        "name": "Topps Baseball Cards",
+        "live": "https://baseball-stats-project.netlify.app/",
+        "git": "https://github.com/zacharyboelter/topps-pro-cards",
+        "image": "https://i.imgur.com/12AgoSQ.png"
+    }
+]
